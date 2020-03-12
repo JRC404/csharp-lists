@@ -1,0 +1,11 @@
+/Users/jacobreilly-cooper/Desktop/CSharp/csharp-lists/bin/Debug/netcoreapp3.1/csharp-lists
+/Users/jacobreilly-cooper/Desktop/CSharp/csharp-lists/bin/Debug/netcoreapp3.1/csharp-lists.deps.json
+/Users/jacobreilly-cooper/Desktop/CSharp/csharp-lists/bin/Debug/netcoreapp3.1/csharp-lists.runtimeconfig.json
+/Users/jacobreilly-cooper/Desktop/CSharp/csharp-lists/bin/Debug/netcoreapp3.1/csharp-lists.runtimeconfig.dev.json
+/Users/jacobreilly-cooper/Desktop/CSharp/csharp-lists/bin/Debug/netcoreapp3.1/csharp-lists.dll
+/Users/jacobreilly-cooper/Desktop/CSharp/csharp-lists/bin/Debug/netcoreapp3.1/csharp-lists.pdb
+/Users/jacobreilly-cooper/Desktop/CSharp/csharp-lists/obj/Debug/netcoreapp3.1/csharp-lists.csprojAssemblyReference.cache
+/Users/jacobreilly-cooper/Desktop/CSharp/csharp-lists/obj/Debug/netcoreapp3.1/csharp-lists.AssemblyInfoInputs.cache
+/Users/jacobreilly-cooper/Desktop/CSharp/csharp-lists/obj/Debug/netcoreapp3.1/csharp-lists.AssemblyInfo.cs
+/Users/jacobreilly-cooper/Desktop/CSharp/csharp-lists/obj/Debug/netcoreapp3.1/csharp-lists.dll
+/Users/jacobreilly-cooper/Desktop/CSharp/csharp-lists/obj/Debug/netcoreapp3.1/csharp-lists.pdb
