@@ -15,7 +15,6 @@ namespace csharp_lists
             // start of arrays
             string[] myNewStringArray;
             myNewStringArray = new string[] { "Will", "Fave", "Infinity Works" };
-            // grabbing the index 1
             // Console.WriteLine(myNewStringArray[1]);
             for (int i = 0; i < myNewStringArray.Length; i++)
             {
@@ -49,7 +48,8 @@ namespace csharp_lists
                 cards.RemoveAt(0);
             }
 
-            // Console.WriteLine(cards[0].name);
+
+            // for loop to look through the cards list.
             // for (int i = 0; i < cards.Count; i++)
             // {
             //     System.Console.WriteLine(cards[i].name);
