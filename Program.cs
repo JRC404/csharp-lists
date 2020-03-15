@@ -37,6 +37,7 @@ namespace csharp_lists
             cards.Add(new CardClass { name = "Ash", age = 21 });
             cards.Add(new CardClass { name = "Joe", age = 22 });
             cards.Add(new CardClass { name = "Mizan", age = 24 });
+            // end of list
 
             // twoPlayerDeck
             secondPlayerCards.Add(new CardClass { name = "DannyNoTats", age = 31 });
